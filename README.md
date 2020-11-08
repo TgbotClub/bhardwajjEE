@@ -43,10 +43,7 @@ You have stayed on my page for:
 
 <!--
 **
- - ☀️ Currently Roaming in Past👻 . Make a time🌀 machine if you wanna reach me out ....
- - I am slightly cracky 🐒 by the way
- - Passed out Intermediate this Year . Currently Doing is Nothing...🤦
--->
+
 
 
 
@@ -54,10 +51,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...TimE MacHiNe
 - 🌱 I’m currently learning ...EVerRyThing
-- 👯 I’m looking t
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👻 Currently Roaming in Past ...looking for Truth
+- 💬 Ask me about ...Nothing
+- 📫 How to reach me ...Use Anywhere Door 
+- ⚡ Fun fact ...Life is Not fun Unless you know that
 -->
