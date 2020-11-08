@@ -7,7 +7,6 @@
 
 
    
-<h3 align="center">नमस्कारम्</h3>
 
 <p align="center">
 You have stayed on my page for:
