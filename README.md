@@ -24,13 +24,5 @@ You have stayed on my page for:
 
 </center>
 
-- 🔭 I’m currently working on ...TimE MacHiNe
-- 🌱 I’m currently learning ...EVerRyThing
-- 👻 Currently Roaming in Past ...looking for Truth
-- 💬 Ask me about ...Nothing
-- 📫 How to reach me ...Use Anywhere Door 
-- ⚡ Fun fact ...Life is Not fun Unless you know that
-
-
 ### See You Tommorrow 
 https://telesco.pe/priyanshu_bhardwajji
