@@ -1,11 +1,14 @@
-<b>Namaste 🙏 </b> \n
+<b>Namaste 🙏 </b>
 ![](https://github.com/bhardwajjEE/bhardwajjEE/blob/main/Assets/ezgif.com-gif-maker.gif)
 
 
-<b>I love to explore & learn New Things ❤️ </b>
+<b>love to explore & learn New Things ❤️ </b>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwajjEE&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="priyanshu's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&bg_color=071A2C&text_color=FFFFFF" alt="oussamabouchikhi's top langs"/>
+</p>
 <p>
   
 
@@ -15,5 +18,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-@priyanshuJEE-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/priyanshuJEE)](https://twitter.com/PRIYANSHUJEE)
 
 
-\n\n <a href="https://gitprofilee.netlify.app/user?id=bhardwajjEE">Git. Stats</a>
+<a href="https://gitprofilee.netlify.app/user?id=bhardwajjEE">Git. Stats</a>
 </p>
