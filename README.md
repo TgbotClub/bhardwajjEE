@@ -1,7 +1,7 @@
 
 ![](https://github.com/bhardwajjEE/bhardwajjEE/blob/main/Assets/ezgif.com-gif-maker.gif)
 
-
+<b>Namaste , This is Priyanshu . </b>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwajjEE&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="priyanshu's github stats"/>
