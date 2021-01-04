@@ -1,8 +1,7 @@
 
 ![](https://github.com/bhardwajjEE/bhardwajjEE/blob/main/Assets/ezgif.com-gif-maker.gif)
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwajjEE&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="priyanshu's github stats"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SpEcHIDe&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&bg_color=071A2C&text_color=FFFFFF" alt=" top langs"/>
 </p>
