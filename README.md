@@ -14,7 +14,7 @@ Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Current
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/priyanshu_bhardwaj)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_bhardwajji)
+[![instagram](https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_bhardwajji)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itispriyanshu@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyanshujEE)
 
