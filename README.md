@@ -1,5 +1,5 @@
 
-![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?bhardwajjEE&theme=flag-india&show_icons=true
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&theme=flag-india&show_icons=true)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&bg_color=071A2C&text_color=FFFFFF" alt=" top langs"/>
 </p>
