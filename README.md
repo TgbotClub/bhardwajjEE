@@ -1,6 +1,6 @@
 
 <pre>
-  <b> Hey You .. 🙋‍♂️ </br> It's Me Priyanshu
+  <b> Hey You .. 🙋‍♂️</b> </br> It's Me Priyanshu
    </pre>
 ![Usual Yada Yada](https://raw.githubusercontent.com/bhardwajjEE/bhardwajjEE/main/Assets/ezgif.com-gif-maker.gif)
 
