@@ -1,6 +1,6 @@
 
-![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?bhardwajjEE=Priyanshu&theme=flag-india&show_icons=true
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=&cache_seconds=10)
+![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?bhardwajjEE&theme=flag-india&show_icons=true
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&bg_color=071A2C&text_color=FFFFFF" alt=" top langs"/>
 </p>
 <p>
