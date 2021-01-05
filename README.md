@@ -10,7 +10,7 @@ Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Current
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bhardwajjEE/&title=Profile%20Views)
 
-## Social Profiles 🙋‍♂️
+## Social Profiles 🏝️
 
  [![Instagram Badge](https://img.shields.io/badge/-@priyanshu_bhardwajji-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/priyanshu_bhardwajji)](https://instagram.com/priyanshu_bhardwajji)
 [![Gmail Badge](https://img.shields.io/badge/-itispriyanshu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itispriyanshu@gmail.com)](mailto:itispriyanshu@gmail.com)
