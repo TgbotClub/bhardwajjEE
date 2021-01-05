@@ -12,9 +12,11 @@ Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Current
 
 ## Social Profiles 🏝️
 
- [![Instagram Badge](https://github.com/bhardwajjEE/bhardwajjEE/raw/main/Assets/IMG_20210106_024334_359.jpg)](https://instagram.com/priyanshu_bhardwajji)
-[![Gmail Badge](https://img.shields.io/badge/-itispriyanshu@gmail.com-c14438?style=flat-square&logo=telegram&logoColor=white&link=mailto:itispriyanshu@gmail.com)](mailto:itispriyanshu@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@priyanshuJEE-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/priyanshuJEE)](https://twitter.com/PRIYANSHUJEE)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/priyanshu_bhardwaj)
+[!instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][https://instagram.com/priyanshu_bhardwajji)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itispriyanshu@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/priyanshujEE)
 
 
 ![](https://telesco.pe/priyanshu_bhardwajji/4)
