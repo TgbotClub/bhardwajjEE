@@ -1,8 +1,9 @@
 
+![IntroDuction GF](https://raw.githubusercontent.com/bhardwajjEE/bhardwajjEE/main/Assets/ezgif.com-gif-maker.gif)
+
 <pre>
-Hey You .. 🙋‍♂️ / It's Me Priyanshu
+Hey ..... 🙋‍♂️ </br> It's Me Priyanshu aka BhardwajjEE . </br> I am Currently 17 & Doing My jEE preparation . </br> I love to discover & learn new things each day . </br> Learning Telegram Bot Api & GitHub Nowdays . </br> Lover & Explorer of TelegramiC things ...❤️
    </pre>
-![Usual Yada Yada](https://raw.githubusercontent.com/bhardwajjEE/bhardwajjEE/main/Assets/ezgif.com-gif-maker.gif)
 
 ## GitHub Stats 🌟
 
