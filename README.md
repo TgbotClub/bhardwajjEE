@@ -2,8 +2,7 @@
 ![IntroDuction GF](https://raw.githubusercontent.com/bhardwajjEE/bhardwajjEE/main/Assets/ezgif.com-gif-maker.gif)
 
 <pre>
-Hey ..... 🙋‍♂️ </br> It's Me Priyanshu aka BhardwajjEE . </br> I am Currently 17 & Doing My jEE preparation . </br> I love to discover & learn new things each day . </br> Learning Telegram Bot Api & GitHub Nowdays . </br> Lover & Explorer of TelegramiC things ...❤️
-   </pre>
+Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Currently 17 & Doing My jEE preparation .</br>I love to discover & learn new things each day . </br>Currently Learning Telegram Bot Api & GitHub .</br> </pre>
 
 ## GitHub Stats 🌟
 
