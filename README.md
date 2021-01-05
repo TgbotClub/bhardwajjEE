@@ -1,8 +1,7 @@
 ![Usual Yada Yada](https://raw.githubusercontent.com/bhardwajjEE/bhardwajjEE/main/Assets/ezgif.com-gif-maker.gif)
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&theme=flag-india&show_icons=true)
 
-[![Priyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhardwajjEE)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bhardwajjEE/&title=Profile%20Views)
 
 
