@@ -8,7 +8,7 @@ Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Current
 
 ![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=bhardwajjEE&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bhardwajjEE/&title=Profile%20Views)
+![counter](https://komarev.com/ghpvc/?username=bhardwajjEE&style=flat-square)
 
 ## Social Profiles 🏝️
 
