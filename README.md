@@ -10,11 +10,9 @@ Hey ..... 🙋‍♂️</br>It's Me Pratyush aka BhardwajjEE . </br>I am Current
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhardwajjEE&layout=compact)](https://github.com/bhardwajjEE/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=bhardwajjEE&style=flat-square)
 
-## Social Profiles 🏝️
+## Social Profiles ♥️
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/theContactRobot)
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_bhardwajji)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itispriyanshu@gmail.com)
-
-![See You Tommorrow ..♠️♥️](https://telesco.pe/priyanshu_bhardwajji/4)
